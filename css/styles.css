@@ -128,7 +128,7 @@ a {
 
 .galeria {
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
     gap: 1.5rem;
 }
 
